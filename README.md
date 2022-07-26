@@ -9,3 +9,4 @@ How to uninstall:
 1. Uninstall Dark Reader.
 
 PS: You'll need chrome.
+(or edge)
